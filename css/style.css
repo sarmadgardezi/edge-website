@@ -95,7 +95,7 @@
     }
     
     .section-bg-contact {
-    background-image: url(../img/background/section-bg-contact.jpg);
+    background-image: url(../img/news/bgfooter.jpeg);
     }
     
     
@@ -273,7 +273,7 @@
     }
     
     .works-page-img-carousel-item-6 {		
-    background-image: url(../img/works/works-page-img-carousel-item-6.jpg);
+    background-image: url(//img/work/6.jpeg);
     }
     
     .works-page-img-carousel-item-7 {	
@@ -303,7 +303,7 @@
     
     /* 1.9. about IMG BACKGROUND */
     .img-fullwidth-about-carousel {
-    background-image: url(../img/10.jpeg);
+    background-image: url(../img/services/3.jpeg);
     }
     
     
@@ -323,37 +323,36 @@
     
     /* 1.11. news IMG carousel IMG BACKGROUND */
     .news-page-img-carousel-item-1 {		
-    background-image: url(../img/news/news-page-img-carousel-item-1.jpg);
+    background-image: url(../img/news/1.jpeg);
     }
     
     .news-page-img-carousel-item-2 {		
-    background-image: url(../img/news/news-page-img-carousel-item-2.jpg);
+    background-image: url(../img/news/2.jpeg);
     }
     
     .news-page-img-carousel-item-3 {	
-    background-image: url(../img/news/news-page-img-carousel-item-3.jpg);
+    background-image: url(../img/news/3.jpeg);
     }
     
     .news-page-img-carousel-item-4 {		
-    background-image: url(../img/news/news-page-img-carousel-item-4.jpg);
+    background-image: url(../img/news/4.jpeg);
     }
     
     
     /* 1.12. news panel left bg IMG BACKGROUND */
     .panel-left-1.panel-left-bg-1 {
-    background-image: url(../img/news/news-page-img-carousel-item-1.jpg);
-    }
+    background-image: url(../img/news/1.jpeg);}
     
     .panel-left-2.panel-left-bg-2 {
-    background-image: url(../img/news/news-page-img-carousel-item-2.jpg);
+    background-image: url(../img/news/2.jpeg);
     }
     
     .panel-left-3.panel-left-bg-3 {
-    background-image: url(../img/news/news-page-img-carousel-item-3.jpg);
+    background-image: url(../img/news/3.jpeg);
     }
     
     .panel-left-4.panel-left-bg-4 {
-    background-image: url(../img/news/news-page-img-carousel-item-4.jpg);
+    background-image: url(../img/news/4.jpeg);
     }
     
     
