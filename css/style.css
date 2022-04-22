@@ -273,15 +273,15 @@
     }
     
     .works-page-img-carousel-item-6 {		
-    background-image: url(//img/work/6.jpeg);
+    background-image: url(../img/work/6.jpeg);
     }
     
     .works-page-img-carousel-item-7 {	
-    background-image: url(../img/works/works-page-img-carousel-item-7.jpg);
+    background-image: url(../img/work/7.jpeg);
     }
     
     .works-page-img-carousel-item-8 {		
-    background-image: url(../img/works/works-page-img-carousel-item-8.jpg);
+    background-image: url(../img/work/8.jpeg);
     }
     
     .works-page-img-carousel-item-9 {		
@@ -364,7 +364,7 @@
     
     /* 1.14. swiper timeline IMG BACKGROUND */
     .swiper-slide-bg-1 {	
-    background-image: url(../img/news/6.jpeg);
+    background-image: url(../img/bg2.jpeg);
     }
     
     .swiper-slide-bg-2 {	
@@ -1753,7 +1753,7 @@
     }
     
     .services-accordion ul li.toggled span:after {
-    content: "â€“";
+    content: "-";
     color: #5f5f5f;
     font-size: 16px;
     line-height: 16px;
@@ -2118,7 +2118,7 @@
     .about-content .about-content-inner {
     position: relative;
     width: 100%;
-    padding: 0 200px;
+    padding: 0 90px;
     text-align: center;
     }
     
@@ -2153,7 +2153,6 @@
     
     .about-content-inner p {
     color: #fff;
-    padding: 54px 10px 38px 10px;
     }
     
     @media only screen and (max-width: 640px) {
@@ -4362,7 +4361,7 @@
     line-height: 1;
     font-style: normal;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 200;
     letter-spacing: normal;
     color: #fff;
     margin: 0;
@@ -4390,12 +4389,12 @@
     }
     
     .timeline .swiper-slide .timeline-title {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 80px;
     line-height: 1;
     font-style: normal;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: -0.05em;
     color: #fff;
     margin: 42px 0 47px 0;
