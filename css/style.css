@@ -4356,11 +4356,11 @@
     
     .timeline .swiper-slide .timeline-year {
     display: block;
-    font-family: 'Oswald', sans-serif;
+    font-family: sans-serif;
     font-size: 30px;
     line-height: 1;
     font-style: normal;
-    text-transform: uppercase;
+    text-transform: revert;
     font-weight: 200;
     letter-spacing: normal;
     color: #fff;
